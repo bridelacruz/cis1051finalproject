@@ -6,7 +6,7 @@ Interactive fiction game
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-I will be working on my own
+I will not be collaborating with anyone in the class
 
 ## Do you have any questions of your own?
 
