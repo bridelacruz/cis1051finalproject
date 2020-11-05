@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-Interactive fiction game
+A text based, interactive fiction game
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
