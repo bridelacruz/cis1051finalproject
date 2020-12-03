@@ -10,7 +10,7 @@ N/A
 
 #### Project title
 
-TODO
+A Legendairy Space Quest
 
 ***
 
@@ -18,7 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I have made 
+-Player stats
+-Classes (Player, other characters)
+-Help function
+-Introduction
+-Player customization 
+-Ending
 
 #### What have you not done for your project yet?
 
@@ -26,4 +31,4 @@ Finished the storyline
 
 #### What problems, if any, have you encountered?
 
-TODO
+There are aspects of the game that I did not think about including before writing the proposal (like an undo function). Writing the story with all potential moves is very time consuming and tedious
